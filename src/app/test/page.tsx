@@ -2,7 +2,7 @@ import React from 'react'
 
 function page() {
   return (
-    <div className='bg-red-500'>sujon paramnik</div>
+    <div className='text-3xl  mt-10 text-center'>page</div>
   )
 }
 
